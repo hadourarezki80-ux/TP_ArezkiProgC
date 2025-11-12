@@ -10,9 +10,9 @@ double perimetre = 2 * pi * r;
     
     printf("L'air du cercle = %f", pi*(r*r));
    printf("Le périmètre du cercle = %f", pi*(r+r));
-
-   return 0 
+ 
 }
+
 
 
 
